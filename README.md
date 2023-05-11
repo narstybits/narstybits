@@ -1,4 +1,4 @@
-[![MasterHead](https://kpmg.com/content/dam/kpmg/xx/images/2021/03/enterprise-digital-abstract-background-banner.jpg)](https://github.com/narstybits)
+[![MasterHead](https://botanicalpaperworks.com/wp-content/uploads/legacy/EarthBanner.jpg)](https://github.com/narstybits)
 <h1 align="center">Hi 👋, I'm Narsty</h1>
 <h3 align="center">A passionate Digital Craftsman from Earth</h3>
 <img align="right" alt="Coding" width="400" src="https://thumbs.gfycat.com/KindDistortedIrrawaddydolphin-size_restricted.gif">
