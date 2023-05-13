@@ -12,7 +12,7 @@
 
 - ⚡ Fun fact **ETHICAL HACKING IS COOL**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3> narstybits@gmail.com
 <p align="left">
 </p>
 
