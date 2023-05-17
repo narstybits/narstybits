@@ -6,11 +6,15 @@
 
 <h4 - 🔭 I’m currently working on [BadUSB Scripts For MacOS](https://github.com/narstybits/MacOS-DuckyScripts)
 
-- 🌱 I’m currently learning **XCODE,PYTHON,TERMINAL**
 
-- 👯 I’m looking to collaborate on **BADUSB/DuckyScripts**
 
-- ⚡ Fun fact **ETHICAL HACKING IS COOL**
+ 🌱 I’m currently learning **XCODE,PYTHON,TERMINAL**
+
+ 👯 I’m looking to collaborate on **BADUSB/DuckyScripts**
+
+ ⚡ Fun fact **ETHICAL HACKING IS COOL**
+
+
 
 <h3
 <p align="left">
