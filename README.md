@@ -27,7 +27,7 @@ Your donations will help me continue creating and improving scripts for the comm
 
 <div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
   <a href="https://www.blockonomics.co/pay-url/5106312c7ce343bb">
-    <img src="https://www.opennode.com/blog/wp-content/uploads/2020/04/donate-button-small-1.png" alt="Donate" style="max-width: 40%; width: 40%;">
+    <img src="https://www.opennode.com/blog/wp-content/uploads/2020/04/donate-button-small-1.png" alt="Donate" style="max-width: 40%; width: 30%;">
   </a>
 </div>
 
