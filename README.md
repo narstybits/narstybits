@@ -21,15 +21,23 @@
 </p>
 <h1
   
-If you find my work valuable and would like to show your support, you can now contribute by donating in Bitcoin! 
-Your donations will help me continue creating and improving scripts for the community. Your generosity is greatly appreciated! 
 
-
-<div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
+  
+  <div align="center">
+  
+  <h2>Support My Work with Bitcoin Donations</h2>
+  
+  If you find my work valuable and would like to show your support, you can now contribute by donating in Bitcoin!
+  
+  **Your donations will help me continue creating and improving scripts for the community. Your generosity is greatly appreciated!**
+  
   <a href="https://www.blockonomics.co/pay-url/5106312c7ce343bb">
-    <img src="https://www.opennode.com/blog/wp-content/uploads/2020/04/donate-button-small-1.png" alt="Donate" style="max-width: 40%; width: 30%;">
+    <img src="https://www.opennode.com/blog/wp-content/uploads/2020/04/donate-button-small-1.png" alt="Donate with Bitcoin" width="290">
   </a>
+  
 </div>
+
+
 
 
 
