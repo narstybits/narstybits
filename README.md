@@ -4,13 +4,12 @@
 <img align="right" alt="Coding" width="400" src="https://thumbs.gfycat.com/KindDistortedIrrawaddydolphin-size_restricted.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=narstybits&label=Profile%20views&color=0e75b6&style=flat" alt="narstybits" /> </p>
 
-🔭 I’m currently working on [BadUSB Scripts For MacOS](https://github.com/narstybits/MacOS-DuckyScripts)
+ 🖥️ I’m currently working on [BadUSB Scripts For MacOS](https://github.com/narstybits/MacOS-DuckyScripts) </h1>
 
- 🌱 I’m currently learning **XCODE,PYTHON,TERMINAL**
 
- 👯 I’m looking to collaborate on **BADUSB/DuckyScripts**
+![Digital Art](https://media.giphy.com/media/3oKIPic2BnoVZkRla8/giphy.gif)
 
- ⚡ Fun fact **ETHICAL HACKING IS COOL**
+🔥  **Coding ignites innovation's infinite fire**</h1>
 
 
 
