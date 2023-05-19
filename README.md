@@ -4,9 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://thumbs.gfycat.com/KindDistortedIrrawaddydolphin-size_restricted.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=narstybits&label=Profile%20views&color=0e75b6&style=flat" alt="narstybits" /> </p>
 
-<h4 - 🔭 I’m currently working on [BadUSB Scripts For MacOS](https://github.com/narstybits/MacOS-DuckyScripts)
-
-
+🔭 I’m currently working on [BadUSB Scripts For MacOS](https://github.com/narstybits/MacOS-DuckyScripts)
 
  🌱 I’m currently learning **XCODE,PYTHON,TERMINAL**
 
