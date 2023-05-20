@@ -8,10 +8,16 @@
   <h2 style="text-align: right;">📚 Check out the <a href="https://github.com/narstybits/MacOS-DuckyScripts/blob/main/README.md">README</a> for more information</h2>
 </div>
 
-<div class="image-container" style="display: flex; justify-content: space-between;">
-  <img src="https://media.giphy.com/media/YoWU8YpMx46ECcLwNx/giphy.gif" alt="Digital Art" style="order: 2;">
-  <img src="https://media.giphy.com/media/3oKIPic2BnoVZkRla8/giphy.gif" alt="Digital Art" style="order: 1;">
-</div>
+<table style="width: 100%;">
+  <tr>
+    <td style="width: 50%; text-align: right;">
+      <img src="https://media.giphy.com/media/YoWU8YpMx46ECcLwNx/giphy.gif" alt="Digital Art">
+    </td>
+    <td style="width: 50%; text-align: left;">
+      <img src="https://media.giphy.com/media/3oKIPic2BnoVZkRla8/giphy.gif" alt="Digital Art">
+    </td>
+  </tr>
+</table>
 
 
 
