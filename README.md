@@ -3,16 +3,16 @@
 <h2 align="center">A passionate Digital Craftsman from Earth</h3>
 <img align="right" alt="Coding" width="400" src="https://thumbs.gfycat.com/KindDistortedIrrawaddydolphin-size_restricted.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=narstybits&label=Profile%20views&color=0e75b6&style=flat" alt="narstybits" /> </p>
-<h2 align="left">🖥️ Currently working on <a href="https://github.com/narstybits/MacOS-DuckyScripts">BadUSB Scripts For FLIPPER ZERO MacOS <h2 align="right">📚 Check out the Read.me for more information <a href="https://github.com/narstybits/MacOS-DuckyScripts/blob/main/README.md">README</a></h2>
-
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <h2 style="text-align: left;">🖥️ Currently working on <a href="https://github.com/narstybits/MacOS-DuckyScripts">BadUSB Scripts For FLIPPER ZERO MacOS</a></h2>
+  <h2 style="text-align: right;">📚 Check out the <a href="https://github.com/narstybits/MacOS-DuckyScripts/blob/main/README.md">README</a> for more information</h2>
+</div>
 
 <div class="image-container">
-<img src="https://media.giphy.com/media/3oKIPic2BnoVZkRla8/giphy.gif" alt="Digital Art">
-  
-<img align="right" src="https://media.giphy.com/media/YoWU8YpMx46ECcLwNx/giphy.gif" alt="Digital Art">
+  <img src="https://media.giphy.com/media/3oKIPic2BnoVZkRla8/giphy.gif" alt="Digital Art">
+  <img src="https://media.giphy.com/media/YoWU8YpMx46ECcLwNx/giphy.gif" alt="Digital Art">
+</div>
 
-
-  
 
 
 
