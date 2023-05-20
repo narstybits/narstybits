@@ -3,26 +3,17 @@
 <h2 align="center">A passionate Digital Craftsman from Earth</h3>
 <img align="right" alt="Coding" width="400" src="https://thumbs.gfycat.com/KindDistortedIrrawaddydolphin-size_restricted.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=narstybits&label=Profile%20views&color=0e75b6&style=flat" alt="narstybits" /> </p>
-<h2 align="left">🖥️ Currently working on <a href="https://github.com/narstybits/MacOS-DuckyScripts">BadUSB Scripts For MacOS</a></h2>
+<h2 align="left">🖥️ Currently working on <a href="https://github.com/narstybits/MacOS-DuckyScripts">BadUSB Scripts For FLIPPER ZERO MacOS <h2 align="right">📚 Check out the Read.me for more information <a href="https://github.com/narstybits/MacOS-DuckyScripts/blob/main/README.md">README</a></h2>
 
 
 <div class="image-container">
 <img src="https://media.giphy.com/media/3oKIPic2BnoVZkRla8/giphy.gif" alt="Digital Art">
+  
+<img align="right" src="https://media.giphy.com/media/YoWU8YpMx46ECcLwNx/giphy.gif" alt="Digital Art">
+
 
   
-<img align="right" src="https://media.giphy.com/media/3oKIPic2BnoVZkRla8/giphy.gif" alt="Digital Art">
 
-
-
-
-
-
-<div class="container">
-  <div class="content">
-    <h2>📚 Check out the Read.me for more information <a href="https://github.com/narstybits/MacOS-DuckyScripts/blob/main/README.md">README</a></h2>
-  </div>
-  
-</div>
 
 
 
@@ -35,7 +26,7 @@
   
   <div align="center">
   
-  <h2>Support My Work with Bitcoin Donations</h2>
+  <h2> If my work has brought a smile to your face or sparked joy in your heart, and you happen to have some spare Bitcoin lying around, I wouldn't say no to a little digital love. Your generous Bitcoin donations will fuel my creative endeavors and keep the coffee flowing!</h2>
   
   **If you find my work valuable and would like to show your support, you can now contribute by donating in Bitcoin!**
   
