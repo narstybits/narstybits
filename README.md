@@ -5,18 +5,16 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=narstybits&label=Profile%20views&color=0e75b6&style=flat" alt="narstybits" /> </p>
 <h2 align="left">🖥️ Currently working on <a href="https://github.com/narstybits/MacOS-DuckyScripts">BadUSB Scripts For MacOS</a></h2>
 
-<div style="display: flex; align-items: center;">
-  <div style="flex: 1; text-align: center;">
-    
-<h2>👨‍💻 Coding ignites innovation's infinite fire</h2>
-  </div>
-  <div style="float: right;"> 
-   <img align="right"  src="https://media.giphy.com/media/3oKIPic2BnoVZkRla8/giphy.gif" alt="Digital Art"> <div class="image-wrapper">
-  </div>
+
+<div class="image-container">
+  <img src="https://media.giphy.com/media/3oKIPic2BnoVZkRla8/giphy.gif" alt="Digital Art">
+  <img src="https://media.giphy.com/media/3oKIPic2BnoVZkRla8/giphy.gif" alt="Digital Art">
+  <img src="https://media.giphy.com/media/3oKIPic2BnoVZkRla8/giphy.gif" alt="Digital Art">
+</div>
+
+
 
   
-  <div style="float: right;"> 
-    <img src="https://media.giphy.com/media/3oKIPic2BnoVZkRla8/giphy.gif" alt="Digital Art"> <div class="image-wrapper">
   
   </div>
 </div>
@@ -25,7 +23,7 @@
 
 <div class="container">
   <div class="content">
-    <h2>🖥️ Check out the Read.me for more information <a href="https://github.com/narstybits/MacOS-DuckyScripts/blob/main/README.md">README</a></h2>
+    <h2>📚 Check out the Read.me for more information <a href="https://github.com/narstybits/MacOS-DuckyScripts/blob/main/README.md">README</a></h2>
   </div>
   
 </div>
