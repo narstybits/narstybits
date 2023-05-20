@@ -1,6 +1,6 @@
 [![MasterHead](https://botanicalpaperworks.com/wp-content/uploads/legacy/EarthBanner.jpg)](https://github.com/narstybits)
 <h1 align="center">Hi 👋, I'm Narsty</h1>
-<h2 align="center">A passionate Digital Craftsman from Earth</h3>
+<h2 align="center">A Passionate Digital Craftsman from Earth</h3>
 <img align="right" alt="Coding" width="400" src="https://thumbs.gfycat.com/KindDistortedIrrawaddydolphin-size_restricted.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=narstybits&label=Profile%20views&color=0e75b6&style=flat" alt="narstybits" /> </p>
 <div style="display: flex; justify-content: space-between; align-items: center;">
@@ -8,7 +8,7 @@
   <h2 style="text-align: right;">📚 Check out the <a href="https://github.com/narstybits/MacOS-DuckyScripts/blob/main/README.md">README</a> for more information</h2>
 </div>
 
-<div class="image-container">
+<div class="image---container">
   <img src="https://media.giphy.com/media/3oKIPic2BnoVZkRla8/giphy.gif" alt="Digital Art">
   <img src="https://media.giphy.com/media/YoWU8YpMx46ECcLwNx/giphy.gif" alt="Digital Art">
 </div>
