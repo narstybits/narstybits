@@ -10,10 +10,26 @@
     
 <h2>👨‍💻 Coding ignites innovation's infinite fire</h2>
   </div>
-  <div style="float: right;">
-    <img src="https://media.giphy.com/media/3oKIPic2BnoVZkRla8/giphy.gif" alt="Digital Art">
+  <div style="float: right;"> 
+   <img align="right"  src="https://media.giphy.com/media/3oKIPic2BnoVZkRla8/giphy.gif" alt="Digital Art"> <div class="image-wrapper">
+  </div>
+
+  
+  <div style="float: right;"> 
+    <img src="https://media.giphy.com/media/3oKIPic2BnoVZkRla8/giphy.gif" alt="Digital Art"> <div class="image-wrapper">
+  
   </div>
 </div>
+
+
+
+<div class="container">
+  <div class="content">
+    <h2>🖥️ Check out the Read.me for more information <a href="https://github.com/narstybits/MacOS-DuckyScripts/blob/main/README.md">README</a></h2>
+  </div>
+  
+</div>
+
 
 
 <h3
