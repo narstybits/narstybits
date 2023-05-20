@@ -7,10 +7,11 @@
 
 
 <div class="image-container">
-  <img src="https://media.giphy.com/media/3oKIPic2BnoVZkRla8/giphy.gif" alt="Digital Art">
+<img src="https://media.giphy.com/media/3oKIPic2BnoVZkRla8/giphy.gif" alt="Digital Art">
+
   
 <img align="right" src="https://media.giphy.com/media/3oKIPic2BnoVZkRla8/giphy.gif" alt="Digital Art">
-</div>
+
 
 
 
