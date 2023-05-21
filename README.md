@@ -9,17 +9,12 @@
 </div>
 
    
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://media.giphy.com/media/YoWU8YpMx46ECcLwNx/giphy.gif" alt="Digital Art">
+  <img src="https://media.giphy.com/media/3oKIPic2BnoVZkRla8/giphy.gif" alt="Digital Art">
+</div>
 
-<table style="width: 100%;">
-  <tr>
-    <td style="width: 100%; text-align: right;" td>
-      <img src="https://media.giphy.com/media/YoWU8YpMx46ECcLwNx/giphy.gif" alt="Digital Art">
-  <t/d
-    <td style="width: 100%; text-align: left;">
-      <img src="https://media.giphy.com/media/3oKIPic2BnoVZkRla8/giphy.gif" alt="Digital Art">
-   </tr>
-  </tr>
-</table>
+
 
 
 
