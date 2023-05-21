@@ -12,12 +12,12 @@
 
 <table style="width: 100%;">
   <tr>
-    <td style="width: 50%; text-align: right;">
+    <td style="width: 100%; text-align: right;" td>
       <img src="https://media.giphy.com/media/YoWU8YpMx46ECcLwNx/giphy.gif" alt="Digital Art">
-    </td>
-    <td style="width: 50%; text-align: left;">
+  <t/d
+    <td style="width: 100%; text-align: left;">
       <img src="https://media.giphy.com/media/3oKIPic2BnoVZkRla8/giphy.gif" alt="Digital Art">
-    </td>
+   </tr>
   </tr>
 </table>
 
