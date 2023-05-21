@@ -9,10 +9,12 @@
 </div>
 
    
-<div style="display: flex; justify-content: space-between;">
-  <img src="https://media.giphy.com/media/YoWU8YpMx46ECcLwNx/giphy.gif" alt="Digital Art">
-  <img src="https://media.giphy.com/media/3oKIPic2BnoVZkRla8/giphy.gif" alt="Digital Art">
+<div style="display: flex; justify-content: space-----between;">
+  <img src="https://media.giphy.com/media/YoWU8YpMx46ECcLwNx/giphy.gif" alt="Digital Art" style="width: 55%;">
+  <img src="https://media.giphy.com/media/3oKIPic2BnoVZkRla8/giphy.gif" alt="Digital Art" style="width: 45%;">
 </div>
+
+
 
 
 
@@ -40,8 +42,8 @@
   
   <a href="https://www.blockonomics.co/pay-url/5106312c7ce343bb">
     <img src="https://www.opennode.com/blog/wp-content/uploads/2020/04/donate-button-small-1.png" alt="Donate with Bitcoin" width="290">
-  </a>
-</div>
+  <a>
+<div>
 
   
 </div>
