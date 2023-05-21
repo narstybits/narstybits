@@ -9,9 +9,10 @@
 </div>
 
    
-<div style="display: flex; justify-content: space-----between;">
+<div style="display: flex; justify-content: space-between;">
   <img src="https://media.giphy.com/media/YoWU8YpMx46ECcLwNx/giphy.gif" alt="Digital Art" style="width: 55%;">
-  <img src="https://media.giphy.com/media/3oKIPic2BnoVZkRla8/giphy.gif" alt="Digital Art" style="width: 45%;">
+  <img src="https://media.giphy.com/media/3oKIPic2BnoVZkRla8/giphy.gif" alt="Digital Art" style="width: 75%;">
+  <div style="background-color: #f0f0f0; width: 100%;"></div>
 </div>
 
 
