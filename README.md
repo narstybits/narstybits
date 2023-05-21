@@ -10,10 +10,13 @@
 
    
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); grid-gap: 10px;">
-  <img src="https://media.giphy.com/media/YoWU8YpMx46ECcLwNx/giphy.gif" alt="Digital Art" style="width: 45%;">
+  
   <img src="https://media.giphy.com/media/3oKIPic2BnoVZkRla8/giphy.gif" alt="Digital Art" style="width: 45%;">
+  <h>
+  
+  
   <img src="https://media.giphy.com/media/YoWU8YpMx46ECcLwNx/giphy.gif" alt="Digital Art" style="width: 45%;">
-  <img src="https://media.giphy.com/media/3oKIPic2BnoVZkRla8/giphy.gif" alt="Digital Art" style="width: 45%;">
+ 
 </div>
 
 
