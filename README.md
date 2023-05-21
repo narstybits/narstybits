@@ -11,7 +11,13 @@
 <!DOCTYPE html>
 <html>
 <head>
-  
+  <style>
+    .image-container {
+      display: flex;
+      border: none;
+      outline: none;
+    }
+  </style>
 </head>
 <body>
   <div class="image-container">
@@ -20,6 +26,7 @@
   </div>
 </body>
 </html>
+
 
 
 
