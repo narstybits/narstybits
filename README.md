@@ -13,9 +13,10 @@
   
 
   
-  
-  <img src="https://media.giphy.com/media/YoWU8YpMx46ECcLwNx/giphy.gif" alt="Digital Art" style="width: 45%;">
- <img src="https://media.giphy.com/media/3oKIPic2BnoVZkRla8/giphy.gif" alt="Digital Art" style="width: 45%;">
+  <div align="right"> 
+  <img src="https://media.giphy.com/media/YoWU8YpMx46ECcLwNx/giphy.gif" alt="Digital Art" style="width: 75%;">
+  </div>     
+ <img src="https://media.giphy.com/media/3oKIPic2BnoVZkRla8/giphy.gif" alt="Digital Art" style="width: 55%;">
   <h>
 </div>
 
