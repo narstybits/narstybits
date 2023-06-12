@@ -10,6 +10,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=narstybits&label=Profile%20views&color=0e75b6&style=flat" alt="narstybits" /> </p>
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <h2 style="text-align: left;">🖥️ Currently working on <a href="https://github.com/narstybits/MacOS-DuckyScripts">BadUSB Scripts For FLIPPER ZERO MacOS</a></h2>
+
+  
   <h2 style="text-align: right;">📚 Check out the <a href="https://github.com/narstybits/MacOS-DuckyScripts/blob/main/README.md">README</a> for more information</h2>
 </div>
 
@@ -90,7 +92,13 @@
   <img alt="Coding" width="473" height="5" src="https://thumbs.gfycat.com/KindDistortedIrrawaddydolphin-size_restricted.gif">
 </div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=narstybits&" alt="narstybits" /></p>
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=narstybits&background=transparent&ring=2E64A5&fire=2E64A5&currStreakLabel=2E64A5&sideLabels=2E64A5&dates=2E64A5&stroke=2E64A5&currStreakNum=2E64A5&sideNums=2E64A5" alt="narstybits" />
+</p>
+
+
+
+
 
 <div align="left">
   <img alt="Coding" width="1473" height="10" src="https://thumbs.gfycat.com/KindDistortedIrrawaddydolphin-size_restricted.gif">
