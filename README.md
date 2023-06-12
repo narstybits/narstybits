@@ -15,6 +15,15 @@
   <h2 style="text-align: right;">📚 Check out the <a href="https://github.com/narstybits/MacOS-DuckyScripts/blob/main/README.md">README</a> for more information</h2>
 </div>
 
+<p align="right">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=bash,github,ruby,html" /> 
+  </a>
+</p>
+
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=narstybits&theme=transparent)
+
 <div align="left">
   <img alt="Coding" width="1473" height="18" src="https://thumbs.gfycat.com/KindDistortedIrrawaddydolphin-size_restricted.gif">
 </div>
@@ -22,9 +31,9 @@
 
 
 
-   
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); grid-gap: 10px;">
   
+
 
   
   <div align="right"> 
@@ -85,11 +94,11 @@
   <img alt="Coding" width="473" height="5" src="https://thumbs.gfycat.com/KindDistortedIrrawaddydolphin-size_restricted.gif">
 </div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=narstybits&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=narstybits&theme=transparent) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=narstybits&theme=transparent&utcOffset=8)
 
 
  <div align="left">
-  <img alt="Coding" width="473" height="5" src="https://thumbs.gfycat.com/KindDistortedIrrawaddydolphin-size_restricted.gif">
+  <img alt="Coding" width="473" height="5" src="https://thumbs.gfycat.com/KindDistortedIrrawaddydolphin-size_restricted.gif"> 
 </div>
 
 <p>
