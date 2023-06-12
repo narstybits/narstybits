@@ -15,14 +15,14 @@
   <h2 style="text-align: right;">📚 Check out the <a href="https://github.com/narstybits/MacOS-DuckyScripts/blob/main/README.md">README</a> for more information</h2>
 </div>
 
-<p align="right">
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=bash,github,ruby,html" /> 
   </a>
 </p>
 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=narstybits&theme=transparent)
+
 
 <div align="left">
   <img alt="Coding" width="1473" height="18" src="https://thumbs.gfycat.com/KindDistortedIrrawaddydolphin-size_restricted.gif">
@@ -91,19 +91,25 @@
 <p align="left"> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/apps/xamarin" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/xamarin.svg" alt="xamarin" width="40" height="40"/> </a> </p>
 
 <div align="left">
-  <img alt="Coding" width="473" height="5" src="https://thumbs.gfycat.com/KindDistortedIrrawaddydolphin-size_restricted.gif">
+  <img alt="Coding" width="1473" height="5" src="https://thumbs.gfycat.com/KindDistortedIrrawaddydolphin-size_restricted.gif">
 </div>
 
-![Anurag's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=narstybits&theme=transparent) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=narstybits&theme=transparent&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=narstybits&theme=algolia)
+
+<div align="left">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=narstybits&theme=algolia" alt="Anurag's badass GitHub stats">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=narstybits&theme=algolia&utcOffset=8" alt="">
+</div>
+
+
 
 
  <div align="left">
-  <img alt="Coding" width="473" height="5" src="https://thumbs.gfycat.com/KindDistortedIrrawaddydolphin-size_restricted.gif"> 
+  <img alt="Coding" width="1473" height="5" src="https://thumbs.gfycat.com/KindDistortedIrrawaddydolphin-size_restricted.gif"> 
 </div>
 
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=narstybits&background=transparent&ring=2E64A5&fire=2E64A5&currStreakLabel=2E64A5&sideLabels=2E64A5&dates=2E64A5&stroke=2E64A5&currStreakNum=2E64A5&sideNums=2E64A5" alt="narstybits" />
-</p>
+  
 
 
 
