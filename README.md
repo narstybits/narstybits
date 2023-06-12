@@ -83,8 +83,8 @@
   <img alt="Coding" width="473" height="5" src="https://thumbs.gfycat.com/KindDistortedIrrawaddydolphin-size_restricted.gif">
 </div>
 
-    
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=narstybits&show_icons=true&locale=en" alt="narstybits" /></p>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=narstybits&show_icons=true&theme=transparent)
+
 
  <div align="left">
   <img alt="Coding" width="473" height="5" src="https://thumbs.gfycat.com/KindDistortedIrrawaddydolphin-size_restricted.gif">
