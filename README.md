@@ -67,15 +67,15 @@
 
   
   
-  <div style="text-align: center;">
-  <h1>Support Narsty!</h1>
+  <h1 align="center">
+  Support Narsty!</h1>
   <div align="left">
   <img alt="Coding" width="1473" height="10" src="https://thumbs.gfycat.com/KindDistortedIrrawaddydolphin-size_restricted.gif">
 </div>
 
     
   <h3>If my work has brought a smile to your face or sparked joy in your heart, I wouldn't say no to a little digital love. Your generous Bitcoin donations will fuel my creative endeavors and keep the coffee flowing!</h3>
-  
+  <p align="center">
   <a href="https://www.blockonomics.co/pay-url/5106312c7ce343bb">
     <img src="https://www.opennode.com/blog/wp-content/uploads/2020/04/donate-button-small-1.png" alt="Donate with Bitcoin" width="290">
   <a>
