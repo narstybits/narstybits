@@ -6,7 +6,7 @@
 
 <h1 align="center">Hi 👋, I'm Narsty</h1>
 <h2 align="center">A Passionate Digital Craftsman from Earth</h3>
-
+<p align="right"> <img src=https://img.shields.io/badge/-MacOs%20Flipper%20Zero%20Scripts-brightgreen
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=narstybits&label=Profile%20views&color=0e75b6&style=flat" alt="narstybits" /> </p>
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <h2 style="text-align: left;">🖥️ Currently working on <a href="https://github.com/narstybits/MacOS-DuckyScripts">BadUSB Scripts For FLIPPER ZERO MacOS</a></h2>
