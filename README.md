@@ -1,4 +1,6 @@
-[![MasterHead](https://botanicalpaperworks.com/wp-content/uploads/legacy/EarthBanner.jpg)](https://github.com/narstybits)
+![Image Description](https://i.imgur.com/8CeJawW.png)
+
+
 <div align="left">
   <img alt="Coding" width="1473" height="18" src="https://thumbs.gfycat.com/KindDistortedIrrawaddydolphin-size_restricted.gif">
 </div>
