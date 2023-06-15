@@ -3,7 +3,7 @@
 
 
 <div align="left">
-  <img alt="Coding" width="1473" height="18" src="https://thumbs.gfycat.com/KindDistortedIrrawaddydolphin-size_restricted.gif">
+  <img alt="Coding" width="1473" height="18" src="https://media.giphy.com/media/9JxkPTP3alOykb8PmQ/giphy.gif">
 </div>
 
 
