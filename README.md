@@ -31,52 +31,9 @@
 </div>
 
 
+[![Image Description](https://imgur.com/LUaYd0O.png)](https://www.blockonomics.co/pay-url/5106312c7ce343bb)
 
 
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); grid-gap: 10px;">
-  
-
-
-  
-  <div align="right"> 
-  <img src="https://media.giphy.com/media/YoWU8YpMx46ECcLwNx/giphy.gif" alt="Digital Art" style="width: 75%;">
-  </div>     
- <img src="https://media.giphy.com/media/3oKIPic2BnoVZkRla8/giphy.gif" alt="Digital Art" style="width: 55%;">
-  <h>
-</div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-
-  
-  
-  <h1 align="center">
-  Support Narsty!</h1>
-  <div align="left">
-  <img alt="Coding" width="1473" height="10" src="https://thumbs.gfycat.com/KindDistortedIrrawaddydolphin-size_restricted.gif">
-</div>
-
-    
-  <h3>If my work has brought a smile to your face or sparked joy in your heart, I wouldn't say no to a little digital love. Your generous Bitcoin donations will fuel my creative endeavors and keep the coffee flowing!</h3>
   <p align="center">
   <a href="https://www.blockonomics.co/pay-url/5106312c7ce343bb">
     <img src="https://www.opennode.com/blog/wp-content/uploads/2020/04/donate-button-small-1.png" alt="Donate with Bitcoin" width="290">
