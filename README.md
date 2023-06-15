@@ -23,9 +23,7 @@
   <h2 style="text-align: right;">📚 Check out the <a href="https://github.com/narstybits/MacOS-DuckyScripts/blob/main/README.md">README</a> for more information</h2>
 </div>
 
-
-
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=narstybits&theme=transparent&hide_border=true&card_width=1000&hide_total_contributions=true)](https://git.io/streak-stats)
 
 
 <div align="left">
