@@ -105,6 +105,8 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=narstybits&theme=algolia&utcOffset=8" alt="">
 </div>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=narstybits&theme=algolia&title=Stars,Commit,Repository,Issues)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 
 
