@@ -77,7 +77,14 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=narstybits&theme=algolia&utcOffset=8" alt="">
 </div>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=narstybits&theme=algolia&title=Stars,Commit,Repository,Issues,Followers)](https://github.com/narstybits/MacOS-DuckyScripts)
+<div style="float: right;">
+  <a href="https://github.com/narstybits/MacOS-DuckyScripts">
+    <div align="left">
+  <img alt="Coding" width="830" height="200" src="https://github-profile-trophy.vercel.app/?username=narstybits&theme=algolia&title=Stars,Commit,Repository,Issues,Followers" alt="trophy">
+  </a>
+</div>
+
+
 
 
 
