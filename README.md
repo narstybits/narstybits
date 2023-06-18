@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/-MacOs%20Flipper%20Zero%20Collection-brightgreen">
   </a>
 <a href="https://github.com/narstybits/MacOS-DuckyScripts/blob/main/Executions/Imessage%20Attachments%20to%20Dropbox.txt">
-    <img src="https://img.shields.io/badge/-NEWEST%20FLIPPERZero%20SCRIPT-blue">
+    <img src="https://img.shields.io/badge/-NEWEST%20FLIPPER%20Zero%20SCRIPT-blue">
   </a>
 
 </p>
