@@ -9,18 +9,19 @@
 
 <h1 align="center">Hi 👋, I'm Narsty</h1>
 <h2 align="center">A Passionate Digital Craftsman from Earth</h3>
-<p align="right">
+<p align="center">
   <a href="https://github.com/narstybits/MacOS-DuckyScripts">
     <img src="https://img.shields.io/badge/-MacOs%20Flipper%20Zero%20Collection-brightgreen">
   </a>
 <a href="https://github.com/narstybits/MacOS-DuckyScripts/blob/main/Executions/Imessage%20Attachments%20to%20Dropbox.txt">
     <img src="https://img.shields.io/badge/-NEWEST%20FLIPPER%20Zero%20SCRIPT-blue">
-  </a>
-
+<img alt="GitHub Commit Activity (Week)" src="https://img.shields.io/github/commit-activity/w/narstybits/MacOS-DuckyScripts" />
+<img alt="" src="https://img.shields.io/github/repo-size/narstybits/MacOS-DuckyScripts" />
+<img alt="GitHub Last Commit" src="https://img.shields.io/github/last-commit/narstybits/MacOS-DuckyScripts" />
+<img src="https://komarev.com/ghpvc/?username=narstybits&label=Profile%20views&color=0e75b6&style=flat" alt="narstybits" />  
 </p>
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=narstybits&label=Profile%20views&color=0e75b6&style=flat" alt="narstybits" /> </p>
-<div style="display: flex; justify-content: space-between; align-items: center;">
+
 
 <img alt="Coding" width="1473" height="5" src="https://media.giphy.com/media/RH27Uw1IFGfIs/giphy.gif">
 </div>
