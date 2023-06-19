@@ -9,7 +9,7 @@
 
 <h1 align="center">Hi 👋, I'm Narsty</h1>
 <h2 align="center">A Passionate Digital Craftsman from Earth</h3>
-<p align="center">
+<p align="left">
   <a href="https://github.com/narstybits/MacOS-DuckyScripts">
     <img src="https://img.shields.io/badge/-MacOs%20Flipper%20Zero%20Collection-brightgreen">
   </a>
