@@ -18,12 +18,12 @@
 <img alt="GitHub Commit Activity (Week)" src="https://img.shields.io/github/commit-activity/w/narstybits/MacOS-DuckyScripts" />
 <img alt="" src="https://img.shields.io/github/repo-size/narstybits/MacOS-DuckyScripts" />
 <img alt="GitHub Last Commit" src="https://img.shields.io/github/last-commit/narstybits/MacOS-DuckyScripts" />
-<img src="https://komarev.com/ghpvc/?username=narstybits&label=Profile%20views&color=0e75b6&style=flat" alt="narstybits" />  <img alt="Coding" width="100" height="100" src="https://user-images.githubusercontent.com/25181517/121406611-a8246b80-c95e-11eb-9b11-b771486377f6.png">
-
+<img src="https://komarev.com/ghpvc/?username=narstybits&label=Profile%20views&color=0e75b6&style=flat" alt="narstybits" />  
 </p>
 
 </div>
-   <h3 align="right">
+ <img alt="Coding" width="100" height="100" src="https://user-images.githubusercontent.com/25181517/121406611-a8246b80-c95e-11eb-9b11-b771486377f6.png">
+  <h3 align="right">
   🖥️ Currently working on <a href="https://github.com/narstybits/MacOS-DuckyScripts">BadUSB Scripts For FLIPPER ZERO MacOS 
      
  <h2 align="left">📚 Check out the <a href="https://github.com/narstybits/MacOS-DuckyScripts/blob/main/README.md">README<a> for more information
