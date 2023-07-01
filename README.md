@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 [![Image Description](https://i.imgur.com/8CeJawW.png)](https://github.com/narstybits/MacOS-DuckyScripts)
 
 
