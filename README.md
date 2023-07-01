@@ -1,5 +1,7 @@
 <!DOCTYPE html>
-[![Image Description](https://i.imgur.com/8CeJawW.png)](https://github.com/narstybits/MacOS-DuckyScripts)
+ <main> 
+
+  [![Image Description](https://i.imgur.com/8CeJawW.png)](https://github.com/narstybits/MacOS-DuckyScripts)
 
 
 
@@ -99,7 +101,7 @@
 
 <p>
   
-
+</main>
 
 
 
