@@ -42,54 +42,39 @@
              <img src="https://www.opennode.com/blog/wp-content/uploads/2020/04/donate-button-small-1.png" alt="Donate with Bitcoin" width="290">
   <a>
 </section>
-<h1 align="left">Languages and Tools:</h1>
+ <h1 Languages and Tools</title>
 <div align="left">
   <img alt="Coding" width="1473" height="5" src="https://media.giphy.com/media/RH27Uw1IFGfIs/giphy.gif">
 </div>    
 
-<p align="left">
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
-  </a>
-  <a href="https://graphql.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://dotnet.microsoft.com/apps/xamarin" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/xamarin.svg" alt="xamarin" width="40" height="40"/>
-  </a>
-  <p align="left">
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=bash,github,ruby,html"/>
-    </a>
-  </p>
-</p>
+<div align="center">
+	<code><img width="75" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="GitHub" title="GitHub"/></code>
+	<code><img width="75" src="https://user-images.githubusercontent.com/25181517/186711578-bf30cb30-40b7-4b45-95a5-bdf837c372e7.png" alt="Xcode" title="Xcode"/></code>
+	<code><img width="75" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML"/></code>
+	<code><img width="75" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS" title="CSS"/></code>
+	<code><img width="75" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript"/></code>
+	<code><img width="75" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python"/></code>
+	<code><img width="75" src="https://user-images.githubusercontent.com/25181517/121406611-a8246b80-c95e-11eb-9b11-b771486377f6.png" alt="iOS" title="iOS"/></code>
+</div>
 
-<div align="left">
+<div align="center">
   <img alt="Coding" width="1473" height="5" src="https://media.giphy.com/media/RH27Uw1IFGfIs/giphy.gif">
 </div>
 
+<div align="center">
+          
+ ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=narstybits&theme=algolia) </div>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=narstybits&theme=algolia)
-
-<div align="left">
+<div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=narstybits&theme=algolia" alt="Anurag's badass GitHub stats">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=narstybits&theme=algolia&utcOffset=8" alt="">
 </div>
 
-<div style="float: right;">
+<div align="center">
   <a href="https://github.com/narstybits/MacOS-DuckyScripts">
-    <div align="left">
-  <img alt="Coding" width="830" height="200" src="https://github-profile-trophy.vercel.app/?username=narstybits&theme=algolia&title=Stars,Commit,Repository,Issues,Followers" alt="trophy">
-  </a>
+    <div align="center">
+  <img alt="coding" width="600" src="https://github-profile-trophy.vercel.app/?username=narstybits&theme=algolia&title=Stars,Commit,Repository,Issues,Followers" alt="trophy">
+ 
 </div>
  <div align="left">
   <img alt="Coding" width="1473" height="5" src="https://media.giphy.com/media/RH27Uw1IFGfIs/giphy.gif"> 
