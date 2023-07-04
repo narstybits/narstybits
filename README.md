@@ -66,14 +66,19 @@
  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=narstybits&theme=algolia) </div>
 
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=narstybits&theme=algolia" alt="Anurag's badass GitHub stats">
+  <img style: src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=narstybits&theme=algolia" alt="Anurag's badass GitHub stats">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=narstybits&theme=algolia&utcOffset=8" alt="">
 </div>
 
+
+
 <div align="center">
   <a href="https://github.com/narstybits/MacOS-DuckyScripts">
-    <div align="center">
-  <img alt="coding" width="600" src="https://github-profile-trophy.vercel.app/?username=narstybits&theme=algolia&title=Stars,Commit,Repository,Issues,Followers" alt="trophy">
+    <img alt="coding" style="width: 100%; margin-left: 7%;" src="https://github-profile-trophy.vercel.app/?username=narstybits&theme=algolia&title=Stars,Commit,Repository,Issues,Followers" alt="trophy">
+  </a>
+</div>
+
+
  
 </div>
  <div align="left">
