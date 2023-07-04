@@ -74,7 +74,7 @@
 
 <div align="center">
   <a href="https://github.com/narstybits/MacOS-DuckyScripts">
-    <img alt="coding" style="width: 100%; margin-left: 7%;" src="https://github-profile-trophy.vercel.app/?username=narstybits&theme=algolia&title=Stars,Commit,Repository,Issues,Followers" alt="trophy">
+    <img alt="coding" style="width: 100%; margin-left: 9%;" src="https://github-profile-trophy.vercel.app/?username=narstybits&theme=algolia&title=Stars,Commit,Repository,Issues,Followers" alt="trophy">
   </a>
 </div>
 
