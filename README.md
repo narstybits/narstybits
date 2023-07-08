@@ -40,11 +40,13 @@
      
    [![GitHub Streak](https://streak-stats.demolab.com?user=narstybits&theme=transparent&hide_border=true&card_width=1000&hide_total_contributions=true)](https://git.io/streak-stats)
 
-<P align="right">
+<P align="center">
   <a href="https://github.com/narstybits/MacOS-DuckyScripts">
-    <img alt="coding" style="width: 87%; margin-left: 40%;" src="https://github-profile-trophy.vercel.app/?username=narstybits&theme=algolia&title=Stars,Commit,Repository,Issues,Followers" alt="trophy">
+    <img alt="coding"  src="https://github-profile-trophy.vercel.app/?username=narstybits&theme=algolia&title=Stars,Commit,Repository,Issues,Followers,Reviews" alt="trophy">
   </a>
 </P>
+
+
    
    [![Image Description](https://imgur.com/LUaYd0O.png)](https://www.blockonomics.co/pay-url/5106312c7ce343bb)
 
