@@ -47,7 +47,7 @@
  
    <section> 
 
-   <img alt="Coding" width="1473" height="5" src="https://media.giphy.com/media/RH27Uw1IFGfIs/giphy.gif">
+   <img alt="Coding" width="1473" height="5" src="https://media.giphy.com/media/3o7aD6ydPRgEPllYQM/giphy.gif">
      
    [![GitHub Streak](https://streak-stats.demolab.com?user=narstybits&theme=transparent&hide_border=true&card_width=1000&hide_total_contributions=true)](https://git.io/streak-stats)
 
@@ -68,7 +68,7 @@
 </section>
  <h1 Languages and Tools</title>
 <div align="left">
-  <img alt="Coding" width="1473" height="5" src="https://media.giphy.com/media/RH27Uw1IFGfIs/giphy.gif">
+  <img alt="Coding" width="1473" height="5" src="https://media.giphy.com/media/3o7aD6ydPRgEPllYQM/giphy.gif">
 </div>    
 
 <div align="center">
@@ -82,7 +82,7 @@
 </div>
 
 <div align="center">
-  <img alt="Coding" width="1473" height="5" src="https://media.giphy.com/media/RH27Uw1IFGfIs/giphy.gif">
+  <img alt="Coding" width="1473" height="5" src="https://media.giphy.com/media/3o7aD6ydPRgEPllYQM/giphy.gif">
 </div>
 
 <div align="center">
@@ -100,7 +100,7 @@
  
 </div>
  <div align="left">
-  <img alt="Coding" width="1473" height="5" src="https://media.giphy.com/media/RH27Uw1IFGfIs/giphy.gif"> 
+  <img alt="Coding" width="1473" height="5" src="https://media.giphy.com/media/e2d37UP3Ap10zMpK1r/giphy-downsized-large.gif"> 
 </div>
 
 <p>
